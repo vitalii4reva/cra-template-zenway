@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-zenway",
+  "version": "1.0.0",
+  "description": "CRA plus redux, redux-toolkit, thunks, router, emotion, prettier, eslint, modular redux ducks",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenway-js/cra-template-zenway.git"
+  },
+  "keywords": [
+    "redux",
+    "redux-toolkit",
+    "thunks",
+    "router",
+    "emotion",
+    "prettier",
+    "eslint",
+    "ducks"
+  ],
+  "author": "Vitalii Petrenko <zenway.js@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/zenway-js/cra-template-zenway/issues"
+  },
+  "homepage": "https://github.com/zenway-js/cra-template-zenway#readme"
+}
